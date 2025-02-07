@@ -32,4 +32,3 @@ In the dynamic world of event planning and management, individual creators are c
 - **TailwindCSS** - for UI styling
 
 ### [Live Demo](https://spot-light-appwrite.vercel.app)
-### [Read Full Article](https://pranaygoel.hashnode.dev/spotlight)
